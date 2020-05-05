@@ -75,7 +75,7 @@ def tik():
 
 back = 0
 Hacked = []
-After 10 Days = []
+Checkpoint = []
 oks = []
 id = []
 listgrup = []
