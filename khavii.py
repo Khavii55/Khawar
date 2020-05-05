@@ -52,7 +52,7 @@ logo = """ -----------------------------•◈•
 |__(~)    •||•KHAWAR ABBASI------•◈•
 |__\~~) •||•ABBASI BRANDS---------------•◈•
 WELCOME TO KHAWAR'S CREATION
-ABBASI BRANDS OWNER KHAVII
+ABBASI BRANDS OWNER KHAVII ABBASI
 
 ⚀◥███◣◥◣◥████◣⚀
 🅰️--------------------🅰️
